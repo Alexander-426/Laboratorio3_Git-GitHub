@@ -1,0 +1,5 @@
+git clone (repositorio)
+git pull
+git branch
+git add .
+git commit -m "Primer commit, creacion de archivos principales"
